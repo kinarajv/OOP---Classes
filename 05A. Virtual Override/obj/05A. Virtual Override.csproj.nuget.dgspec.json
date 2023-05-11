@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\00Inheritance\\00Inheritance.csproj": {}
+    "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\05A. Virtual Override\\05A. Virtual Override.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\00Inheritance\\00Inheritance.csproj": {
+    "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\05A. Virtual Override\\05A. Virtual Override.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\00Inheritance\\00Inheritance.csproj",
-        "projectName": "00Inheritance",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\00Inheritance\\00Inheritance.csproj",
+        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\05A. Virtual Override\\05A. Virtual Override.csproj",
+        "projectName": "05A. Virtual Override",
+        "projectPath": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\05A. Virtual Override\\05A. Virtual Override.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\00Inheritance\\obj\\",
+        "outputPath": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\05A. Virtual Override\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"

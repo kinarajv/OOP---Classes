@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\00Inheritance\\00Inheritance.csproj": {}
+    "C:\\C#\\Bootcamp\\vscode\\OOP & Classes\\Namespaces\\Namespaces.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\00Inheritance\\00Inheritance.csproj": {
+    "C:\\C#\\Bootcamp\\vscode\\OOP & Classes\\Namespaces\\Namespaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\00Inheritance\\00Inheritance.csproj",
-        "projectName": "00Inheritance",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\00Inheritance\\00Inheritance.csproj",
+        "projectUniqueName": "C:\\C#\\Bootcamp\\vscode\\OOP & Classes\\Namespaces\\Namespaces.csproj",
+        "projectName": "Namespaces",
+        "projectPath": "C:\\C#\\Bootcamp\\vscode\\OOP & Classes\\Namespaces\\Namespaces.csproj",
         "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\OOP & Classes\\00Inheritance\\obj\\",
+        "outputPath": "C:\\C#\\Bootcamp\\vscode\\OOP & Classes\\Namespaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
