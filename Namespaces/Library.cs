@@ -1,9 +1,21 @@
-namespace CalculatorLibrary;
-
-static class Calculator 
+namespace CalculatorLibrary
 {
-	public static int Add(int a, int b) 
+	namespace NotACalculator 
 	{
-		return a + b;
+		public class CalculatorNotACalculator
+		{
+			public static int Add(int a, int b)
+			{
+				return a + b;
+			}
+		}
 	}
+    static class Calculator
+    {
+        public static int Add(int a, int b)
+        {
+            return a + b;
+        }
+    }
 }
+
