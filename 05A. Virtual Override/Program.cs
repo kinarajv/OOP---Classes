@@ -1,4 +1,4 @@
-﻿class Parent
+﻿public class Parent
 {
 	public Parent()
 	{
@@ -9,7 +9,7 @@
 		Console.WriteLine("Method Parent");
 	}
 }
-class Child : Parent
+public class Child : Parent
 {
 	public Child()
 	{
@@ -20,9 +20,9 @@ class Child : Parent
 		Console.WriteLine("Method Child");
 	}
 }
-class Program
+public class Program
 {
-	static void Main()
+	public static void Main()
 	{
 		Child child = new Child();
 		Parent parent = new Parent();
