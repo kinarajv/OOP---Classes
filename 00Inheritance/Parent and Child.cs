@@ -2,11 +2,14 @@ namespace InheritanceTutorial;
 class Parent
 {
 	public string? myString;
-	public Parent(string x)
+	public Parent(string myString)
 	{
 		myString = "Parent";
 	}
-	
+		public Parent()
+	{
+		myString = "Parent";
+	}
 	public void MyMethodParent()
 	{
 		Console.WriteLine("Parent.MyMethodParent");
@@ -16,7 +19,7 @@ class Parent
 class Child : Parent
 {
 	public string? myStringx;
-	public Child(string y) : base (y)
+	public Child(string y) : base(y)
 	{
 		myString = y;
 	}

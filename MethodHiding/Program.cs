@@ -10,7 +10,7 @@ class Shape
 
 class Circle : Shape
 {
-    public new  void Display()
+    public new void Display()
     {
         Console.WriteLine("Circle");
     }
